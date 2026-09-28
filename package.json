@@ -1,0 +1,1 @@
+{"name":"one-line-daily","private":true,"type":"module","scripts":{"start":"python -m http.server 8000 --directory dist","test":"node tests/core.test.js"}}
